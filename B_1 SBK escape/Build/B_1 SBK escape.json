@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "B_1 SBK escape.data.unityweb",
+"asmCodeUrl": "B_1 SBK escape.asm.code.unityweb",
+"asmMemoryUrl": "B_1 SBK escape.asm.memory.unityweb",
+"asmFrameworkUrl": "B_1 SBK escape.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
